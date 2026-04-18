@@ -1,8 +1,8 @@
-# Precision Delivery Federal
+# Precision Federal
 
 Production AI, ML, data, and cloud for U.S. federal agencies.
 
-Precision Delivery Federal LLC builds production systems — not prototypes, not demos, not slide decks. Founder-led delivery: the engineer who scopes the work writes the code, owns the architecture, and signs the deliverables.
+Precision Federal builds production systems — not prototypes, not demos, not slide decks. Founder-led delivery: the engineer who scopes the work writes the code, owns the architecture, and signs the deliverables.
 
 ## What we build
 
